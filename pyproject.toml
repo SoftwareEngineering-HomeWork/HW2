@@ -1,7 +1,7 @@
 [project]
 name = "HW2"
 version="0.1"
-dependencies=["autopep8-2.3.1","pycodestyle-2.12.1"]
+dependencies=["autopep8-2.3.1","pycodestyle-2.12.1","pylint"]
 
 [tool.autopep8]
 max_line_length = 50
