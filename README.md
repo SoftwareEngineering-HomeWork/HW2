@@ -4,6 +4,7 @@ Debugging
 [![Static Badge][python-badge]][python-url]
 [![Static Badge][apache-badge]][apache-url]
 [![Static Badge][linux-badge]][linux-url]
+[![Static Badge][workflow-badge]][workflow-url]
 
 [python-badge]:https://img.shields.io/badge/python-v13.3-green
 [python-url]:https://docs.python.org/3.13/whatsnew/3.13.html
@@ -13,3 +14,6 @@ Debugging
 
 [linux-badge]:https://img.shields.io/badge/linux-6.10-green
 [linux-url]:https://www.linux.org/
+
+[workflow-badge]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions/workflows/python-app.yml/badge.svg
+[workflow-url]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions
