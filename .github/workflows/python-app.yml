@@ -14,7 +14,16 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.8'
-    - name: Install pytest
-      run: pip install pytest
+    - name: Install all dependencies
+      run: pip install .
     - name: Test with pytest
       run: pytest
+    - name: Formatting with autopep8
+      run: autopep8 src/
+    - name: Running pylint for merge sort
+      run: pylint src/hw2_debugging.py
+    - name: Running pylint for random numbers
+      run: pylint src/rand.py
+    - name: Running bandit for merge sort
+      run: bandit src/hw2_debugging.py
+    - name: Running bandit for random numbers
