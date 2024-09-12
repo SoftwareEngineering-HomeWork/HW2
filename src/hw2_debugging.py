@@ -4,6 +4,7 @@ import rand
 
 def merge_sort(arr):
     """   Function implementing Merge Sort   """
+    #Hello
     if len(arr) <= 1:
         return arr
 
