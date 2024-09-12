@@ -30,3 +30,4 @@ Debugging
 [workflow-badge]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions/workflows/python-app.yml/badge.svg
 [workflow-url]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions
 
+The Workflow badge shows failing as Bandit is raising 3 security warnings relateld to the Random Array generator.
