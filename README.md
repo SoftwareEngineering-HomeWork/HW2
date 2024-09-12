@@ -4,6 +4,9 @@ Debugging
 [![Static Badge][python-badge]][python-url]
 [![Static Badge][apache-badge]][apache-url]
 [![Static Badge][linux-badge]][linux-url]
+[![Static Badge][autopep8-badge]][python-url]
+[![Static Badge][pylint-badge]][apache-url]
+[![Static Badge][bandit-badge]][linux-url]
 [![Static Badge][workflow-badge]][workflow-url]
 
 [python-badge]:https://img.shields.io/badge/python-v13.3-green
@@ -15,5 +18,15 @@ Debugging
 [linux-badge]:https://img.shields.io/badge/linux-6.10-green
 [linux-url]:https://www.linux.org/
 
+[autopep8-badge]:https://img.shields.io/badge/autopep8-green
+[autopep8-url]:https://pypi.org/project/autopep8/
+
+[pylint-badge]:https://img.shields.io/badge/pylint-green
+[pylint-url]:https://pypi.org/project/pylint/
+
+[bandit-badge]:https://img.shields.io/badge/bandit-green
+[bandit-url]:https://bandit.readthedocs.io/en/latest/
+
 [workflow-badge]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions/workflows/python-app.yml/badge.svg
 [workflow-url]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions
+
