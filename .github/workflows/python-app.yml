@@ -27,3 +27,4 @@ jobs:
     - name: Running bandit for merge sort
       run: bandit src/hw2_debugging.py
     - name: Running bandit for random numbers
+      run: bandit src/rand.py
