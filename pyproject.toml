@@ -2,7 +2,7 @@
 name = "HW2"
 version="0.1"
 
-dependencies=["autopep8","pycodestyle","pylint","pyflakes","bandit"]
+dependencies=["autopep8","pycodestyle","pylint","pyflakes","bandit","pytest"]
 
 [tool.autopep8]
 max_line_length = 50

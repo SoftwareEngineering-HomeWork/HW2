@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: HW2
-Version: 0.1
-License-File: LICENSE
-Requires-Dist: autopep8
-Requires-Dist: pycodestyle
-Requires-Dist: pylint
-Requires-Dist: pyflakes
-Requires-Dist: bandit
