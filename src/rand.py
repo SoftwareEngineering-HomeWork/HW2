@@ -7,6 +7,6 @@ def random_array(arr):
     shuffled_num = None
     for element in enumerate(arr):
         shuffled_num = subprocess.run(
-            ["shuf", "-i1-20", "-n1"], capture_output=True,check=True)
+            ["shuf", "-i1-20", "-n1"], capture_output=True, check=True)
         arr[element[0]] = int(shuffled_num.stdout)
     return arr
