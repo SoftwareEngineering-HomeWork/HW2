@@ -5,8 +5,8 @@ Debugging
 [![Static Badge][apache-badge]][apache-url]
 [![Static Badge][linux-badge]][linux-url]
 [![Static Badge][autopep8-badge]][python-url]
-[![Static Badge][pylint-badge]][apache-url]
-[![Static Badge][bandit-badge]][linux-url]
+[![Static Badge][pylint-badge]][pylint-url]
+[![Static Badge][bandit-badge]][bandit-url]
 [![Static Badge][workflow-badge]][workflow-url]
 
 [python-badge]:https://img.shields.io/badge/python-v13.3-green
