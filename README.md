@@ -4,7 +4,7 @@ Debugging
 [![Static Badge][python-badge]][python-url]
 [![Static Badge][apache-badge]][apache-url]
 [![Static Badge][linux-badge]][linux-url]
-[![Static Badge][autopep8-badge]][python-url]
+[![Static Badge][autopep8-badge]][autopep8-url]
 [![Static Badge][pylint-badge]][pylint-url]
 [![Static Badge][bandit-badge]][bandit-url]
 [![Static Badge][workflow-badge]][workflow-url]
