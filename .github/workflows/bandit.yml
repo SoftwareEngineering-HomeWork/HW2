@@ -15,6 +15,6 @@ jobs:
       with:
         python-version: '3.8'
     - name: Install all dependencies
-      run: pip install
+      run: pip install .
     - name: Running Bandit for merge sort
       run: bandit src/hw2_debugging.py
