@@ -8,7 +8,7 @@ Debugging
 [![Static Badge][pylint-badge]][pylint-url]
 [![Static Badge][bandit-badge]][bandit-url]
 [![Static Badge][workflow-badge]][workflow-url]
-[![AutoPep8](https://github.com/SoftwareEngineering-HomeWork/HW2/actions/workflows/python-app.yml/badge.svg)](https://github.com/SoftwareEngineering-HomeWork/HW2/actions/workflows/python-app.yml?query=workflow%3A"Formatting+with+autopep8")
+[![Static Badge][autopep8-badge]](https://github.com/SoftwareEngineering-HomeWork/HW2/actions/workflows/python-app.yml")
 
 [python-badge]:https://img.shields.io/badge/python-v13.3-green
 [python-url]:https://docs.python.org/3.13/whatsnew/3.13.html
