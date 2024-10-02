@@ -1,4 +1,4 @@
-name: Merge sort
+name: Pylint
 
 on:
   push:
