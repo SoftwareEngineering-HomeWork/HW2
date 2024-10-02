@@ -19,15 +19,15 @@ Debugging
 [linux-url]:https://www.linux.org/
 
 [autopep8-badge]:https://img.shields.io/badge/autopep8-green
-[autopep8-url]:https://pypi.org/project/autopep8/
+[autopep8-url]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions/autopep8.yml
 
 [pylint-badge]:https://img.shields.io/badge/pylint-green
-[pylint-url]:https://pypi.org/project/pylint/
+[pylint-url]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions/pylint.yml
 
 [bandit-badge]:https://img.shields.io/badge/bandit-green
-[bandit-url]:https://bandit.readthedocs.io/en/latest/
+[bandit-url]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions/bandit.yml
 
 [workflow-badge]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions/workflows/python-app.yml/badge.svg
-[workflow-url]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions
+[workflow-url]:https://github.com/SoftwareEngineering-HomeWork/HW2/actions/python-app.yml
 
 The Workflow badge shows failing as Bandit is raising 3 security warnings relateld to the Random Array generator.
